@@ -1,7 +1,5 @@
 # Avent of Cyber 2020 Web API Scripts
 
-
-***
 ## Libraries
 
 Make sure the following python libraries are installed:
