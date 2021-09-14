@@ -16,11 +16,10 @@ pip3 install requests beautifulsoup4
 ```
 pip3 install lxml 
 ```
-Alternatively you can install `bpython` which will also serve as a python interpreter that we can use. You can see that we can also check if `bs4` is installed with no errors when we import the module:
+<br></br>
+Alternatively you can install `bpython` which will also serve as a python interpreter that we can use. You can see that we can also check if `bs4` is installed with no errors as we import the module:
 
-![Images](4.png)
-
-***
+![Image4](Images\4.png)
 
 ## Usage
 
