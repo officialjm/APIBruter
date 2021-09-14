@@ -22,4 +22,39 @@ Alternatively you can install `bpython` which will also serve as a python interp
 ![](Images/4.png)
 
 ## Usage
+In order to utilize the API Bruteforce tool `APIBruter.py` , you will need to use the web-scraper `APIScraper` to find the URL that will take the API calls and give you the relevant information needed.
+<br></br>
 
+**APIScraper**
+
+We download the `APIScraper` tool and make changes to inport the machine/web-server IP where **[MACHINE_IP]** is located: 
+
+![](Images/2.png)
+
+When running the script, be sure to pipe the `uniq` command to remove all duplicate URLs that may occur.
+
+```
+python3 APIScraper.py | uniq
+```
+This should output the URL needed in order to start bruteforcing the API key.
+
+![](Images/8.png)
+<br></br>
+
+**APIBruter**
+
+`APIBruter` is a simple python script made to find a valid API response from the web-server.  This is an odd number between 0-100. After too many attempts, the server will will block your IP (can be fixed with IP spoofing or changing IP).
+
+We download the `APIBruter` tool and make changes to inport the machine/web-server IP where **[MACHINE_IP]** is located:
+
+![](Images/5.png)
+
+When running the script, just use the following:
+```
+python3 APIBruter.py
+```
+This script will try and import numbers **1 - 100** in order to get the vaild response, output result should look like this:
+
+![](Images/7.png)
+
+This reports both the results of the vaild response and the `item_id` number associated to make this API call.
