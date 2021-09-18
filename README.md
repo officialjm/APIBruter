@@ -6,7 +6,7 @@
 
 </h3>
 
-This is a colloction of 2 tools that I have made to help assist with the [TRYHACKME: Advent of Cyber 2020](https://tryhackme.com/christmas) CFT event. The following include a python3 based Web URL Scraper and a Web API Brute-force tool. Please feel free to make pull requests to improve project!
+This is a collection of tools that I have made to help assist with the [TRYHACKME: Advent of Cyber 2020](https://tryhackme.com/christmas) CFT event. The following include a python3 based Web URL Scraper and a Web API Brute-force tool. Please feel free to make pull requests to improve project!
 <br><br/>
 
 ## Libraries
