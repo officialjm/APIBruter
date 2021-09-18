@@ -3,11 +3,12 @@
 <h3 align="center">
 
 ![](Images/AoC2020.gif)
+  
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-
 </h3>
+<br><br/>
 
 This is a collection of tools that I have made to help assist with the [TRYHACKME: Advent of Cyber 2020](https://tryhackme.com/christmas) CFT event. The following include a python3 based Web URL Scraper and a Web API Brute-force tool. Please feel free to make pull requests to improve project!
 <br><br/>
