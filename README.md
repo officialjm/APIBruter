@@ -1,16 +1,13 @@
 <h1  align="center"> Avent of Cyber 2020 - Web URL & API Scraper </h1>
 
-<h2 align="center">
-<p>
+<h3 align="center">
 
 ![](Images/AoC2020.gif)
 
-</p>
-</h2>
+</h3>
 
 This is a colloction of 2 tools that I have made to help assist with the [TRYHACKME: Advent of Cyber 2020](https://tryhackme.com/christmas) CFT event. The following include a python3 based Web URL Scraper and a Web API Brute-force tool. Please feel free to make pull requests to improve project!
-
-#
+<br><br/>
 
 ## Libraries
 
